@@ -1,21 +1,9 @@
 ---
-title: "index"
-author: "George Ni"
-date: "2024-01-17"
-output:
-  prettydoc::html_pretty:
-    theme: tactile
-    toc: true
-    toc_depth: 3
+title: "My Website"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Hello, Website!
 
-# Links to Assignments
-Link to newpage: [Link here](newpage.rmd)
+For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
 
-# Plots and Visualizations
-
-# References
+Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
