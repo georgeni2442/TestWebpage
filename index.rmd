@@ -1,7 +1,8 @@
 ---
-title: "My Website"
-output: prettydoc::html_pretty:
-  theme: tactile
+title: "Computation Biology Test Site"
+output: 
+  prettydoc::html_pretty:
+    theme: tactile
 ---
 
 Hello, Website!
