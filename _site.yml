@@ -1,0 +1,10 @@
+name: My Website
+output_dir: docs
+navbar:
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: Readings
+    href: readings.html
