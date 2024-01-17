@@ -1,5 +1,7 @@
 ---
 title: "My Website"
+output: prettydoc::html_pretty:
+  theme: tactile
 ---
 
 Hello, Website!
