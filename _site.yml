@@ -1,4 +1,5 @@
-name: "my-website"
+name: "CompBio"
+output_dir: "docs"
 navbar:
   title: "My Website"
   left:
@@ -6,3 +7,5 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      href: projects.html
