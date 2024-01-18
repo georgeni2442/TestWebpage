@@ -1,0 +1,19 @@
+---
+title: "Projects"
+author: "George Ni"
+date: "2024-01-18"
+output: 
+  html_document: 
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. Study the effect of winter temperatures and microhabitat conditions on EAB parasitoids and their parasitism success 
+
+2. Investigate the use of machine learning and drone imagery as a fieldwork methodology/substitute for traditional field transect surveys when evaluating EAB damage and ash forest health. 
+
+3. Model the dispersal and spread of EAB parasitoids as a response to invasion waves through meta-analysis methods. 

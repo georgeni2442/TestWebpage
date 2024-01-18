@@ -1,9 +1,9 @@
 ---
-title: "About This Website"
+title: "About Me"
 output:
   html_document:
     theme: cerulean
     hightlight: tango
 ---
 
-More about this website.
+I am a PhD student studying in Dr. Nicholas Gotelli's lab at the University of Vermont's Biology department. My main research topics are around invasive species ecology and biological control methods. I specifically am interested in studying the Emerald Ash Borer and its parasitoid wasps. 
